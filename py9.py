@@ -1,6 +1,5 @@
 ﻿import collections
-'''
-from tracemalloc import stop
+
 #Задание 1
 
 def fac(x):
@@ -19,7 +18,7 @@ for i in range(fac(x), 0, -1):
 
 print(y)
 print('_________________________________________')
-'''
+
 # Задание 2
 
 def get_pet(ID):
